@@ -1,11 +1,11 @@
 [
         {
-            "id": 1,
+            "id": "1",
             "firstname": "Leon",
             "lastname": "Kennedy",
-            "rate": 4,
+            "rate": "4",
             "phone": "52644654654",
-            "age": 20,
+            "age": "20",
             "email": "Leon@email.com",
             "image": "https://i.imgur.com/WPfa8Uq.jpg",
             "studio": "INKED STUDIO",
@@ -14,12 +14,12 @@
             "zipcode": "92998-3874"
         },
         {
-            "id": 2,
+            "id": "2",
             "firstname": "Erick",
             "lastname": "Tenorio",
-            "rate": 0,
+            "rate": "0",
             "phone": "",
-            "age": 20,
+            "age": "20",
             "email": "erick0224@email.com",
             "image": "https://scontent.ftij2-1.fna.fbcdn.net/v/t1.0-1/p240x240/81090020_2618694194883572_8269617674821042176_o.jpg?_nc_cat=102&_nc_sid=dbb9e7&_nc_ohc=e5C-ozzMR3MAX_hRDG2&_nc_ht=scontent.ftij2-1.fna&_nc_tp=6&oh=37914e3d8f5206a78e8e2f2c95b79a0d&oe=5E96ADF5",
             "studio": "",
@@ -28,12 +28,12 @@
             "zipcode": ""
         },
         {
-            "id": 3,
+            "id": "3",
             "firstname": "Erick",
             "lastname": "Tenorio",
-            "rate": 0,
+            "rate": "0",
             "phone": "",
-            "age": 20,
+            "age": "20",
             "email": "erick0224@email.com",
             "image": "https://scontent.ftij2-1.fna.fbcdn.net/v/t1.0-1/p240x240/81090020_2618694194883572_8269617674821042176_o.jpg?_nc_cat=102&_nc_sid=dbb9e7&_nc_ohc=e5C-ozzMR3MAX_hRDG2&_nc_ht=scontent.ftij2-1.fna&_nc_tp=6&oh=37914e3d8f5206a78e8e2f2c95b79a0d&oe=5E96ADF5",
             "studio": "",
