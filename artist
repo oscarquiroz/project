@@ -1,4 +1,6 @@
-[
+{
+    "status": 0,
+    "artist": [
         {
             "id": 1,
             "firstname": "Leon",
@@ -42,3 +44,4 @@
             "zipcode": ""
         }
     ]
+}
