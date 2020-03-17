@@ -7,7 +7,7 @@
                 "make": {
                     "id": "HN",
                     "name": "Honda",
-                    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PlayStation_logo.svg/1200px-PlayStation_logo.svg.png"
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PlayStation_logo.svg/1200px-PlayStation_logo.svg.png"
                 },
                 "type": {
                     "id": "SD",
