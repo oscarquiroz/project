@@ -1,0 +1,71 @@
+{
+    "status": 0,
+    "cars": [
+        {
+            "id": 1,
+            "model": {
+                "id": "HNCV",
+                "name": "Civic",
+                "make": {
+                    "id": "HN",
+                    "name": "Honda",
+                    "logo": "http://localhost:8080/test2020/images/logos/honda.png"
+                },
+                "type": {
+                    "id": "SD",
+                    "name": "Sedan",
+                    "icon": "http://localhost:8080/test2020/images/icons/sedan.png"
+                }
+            },
+            "year": 2017,
+            "description": "LX Coupe",
+            "color": "Black",
+            "price": 16569,
+            "image": "http://localhost:8080/test2020/images/cars/1.jpg"
+        },
+        {
+            "id": 2,
+            "model": {
+                "id": "F150",
+                "name": "F150",
+                "make": {
+                    "id": "FR",
+                    "name": "Ford",
+                    "logo": "http://localhost:8080/test2020/images/logos/ford.jpg"
+                },
+                "type": {
+                    "id": "PKU",
+                    "name": "Pick Up",
+                    "icon": "http://localhost:8080/test2020/images/icons/pickup.png"
+                }
+            },
+            "year": 2019,
+            "description": "4x4 Crew Cab Raptor",
+            "color": "White",
+            "price": 64999,
+            "image": "http://localhost:8080/test2020/images/cars/2.jpg"
+        },
+        {
+            "id": 3,
+            "model": {
+                "id": "GCH",
+                "name": "Grand Cherokee",
+                "make": {
+                    "id": "JP",
+                    "name": "Jeep",
+                    "logo": "http://localhost:8080/test2020/images/logos/jeep.jpg"
+                },
+                "type": {
+                    "id": "SUV",
+                    "name": "SUV",
+                    "icon": "http://localhost:8080/test2020/images/icons/suv.png"
+                }
+            },
+            "year": 2017,
+            "description": "4WD SRT",
+            "color": "Black",
+            "price": 43990,
+            "image": "http://localhost:8080/test2020/images/cars/3.jpg"
+        }
+    ]
+}
