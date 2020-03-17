@@ -1,6 +1,4 @@
-{
-    "status": 0,
-    "cars": [
+[
         {
             "id": 1,
             "model": {
@@ -68,4 +66,3 @@
             "image": "http://localhost:8080/test2020/images/cars/3.jpg"
         }
     ]
-}
