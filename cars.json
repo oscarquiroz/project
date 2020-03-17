@@ -19,7 +19,7 @@
             "description": "LX Coupe",
             "color": "Black",
             "price": 16569,
-            "image": "http://localhost:8080/test2020/images/cars/2.jpg"
+            "image": "http://localhost:8080/test2020/images/cars/1.jpg"
         },
         {
             "id": 2,
