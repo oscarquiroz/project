@@ -3,7 +3,7 @@
                 "id" : 1001,
                 "name" : "Jenny Stevens",
                 "photo" : "https://i.ibb.co/LtTYCsY/1001.png",
-                "phoneNumbers" : [
+                "phoneNumbers" : {
                         {
                                 "number" : 6644837394,
                                 "type" : 
@@ -34,7 +34,7 @@
                                         },
                                 "isDefault" : false
                         }
-                ]
+        }
  
         },
 
@@ -42,7 +42,7 @@
                 "id" : 1002,
                 "name" : "Alex Johnson",
                 "photo" : "https://i.ibb.co/JHzTCbt/1002.jpg",
-                "phoneNumbers" : [
+                "phoneNumbers" : {
                 {
                         "number" : 6648329283,
                         "type" : 
@@ -63,7 +63,7 @@
                         },
                         "isDefault" : true
                 }
-                ]
+        }
         },
 
         
@@ -71,7 +71,7 @@
                 "id" : 1003,
                 "name" : "Mary Jones",
                 "photo" : "https://i.ibb.co/fDsgvHX/1003.png",
-                "phoneNumbers" : [
+                "phoneNumbers" : {
                 {
                         "number" : 6646558968,
                         "type" : 
@@ -92,6 +92,6 @@
                         },
                         "isDefault" : false
                 }
-                ]
+        }
         }
 ]
