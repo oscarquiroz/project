@@ -1,86 +1,92 @@
 [
-        array(
-        "id" => 1001,
-        "name" => "Jenny Stevens",
-        "photo" => "https://i.ibb.co/LtTYCsY/1001.png",
-        "phoneNumbers" => [
-        array(
-        "number" => 6644837394,
-        "type" => array(
-        "id" => "M",
-        "description" => "Mobile",
-        "icon" => "https://i.ibb.co/rfhk776/mobile.png",
-        ),
-        "isDefault" => true
-        ),
-        array(
-        "number" => 6645688765,
-        "type" => array(
-        "id" => "H",
-        "description" => "Home",
-        "icon" => "https://i.ibb.co/T4Tkm9f/home.png",
-        ),
-        "isDefault" => false
-        ),
-        array(
-        "number" => 6645645697,
-        "type" => array(
-        "id" => "W",
-        "description" => "Work",
-        "icon" => "https://i.ibb.co/1Q3qPmV/work.png",
-        ),
-        "isDefault" => false
-        )
-        ]
-        ),
-        array(
-        "id" => 1002,
-        "name" => "Alex Johnson",
-        "photo" => "https://i.ibb.co/JHzTCbt/1002.jpg",
-        "phoneNumbers" => [
-        array(
-        "number" => 6648329283,
-        "type" => array(
-        "id" => "M",
-        "description" => "Mobile",
-        "icon" => "https://i.ibb.co/rfhk776/mobile.png",
-        ),
-        "isDefault" => false
-        ),
-        array(
-        "number" => 6641273627,
-        "type" => array(
-        "id" => "W",
-        "description" => "Work",
-        "icon" => "https://i.ibb.co/1Q3qPmV/work.png",
-        ),
-        "isDefault" => true
-        )
-        ]
-        ),
-        array(
-        "id" => 1003,
-        "name" => "Mary Jones",
-        "photo" => "https://i.ibb.co/fDsgvHX/1003.png",
-        "phoneNumbers" => [
-        array(
-        "number" => 6646558968,
-        "type" => array(
-        "id" => "M",
-        "description" => "Mobile",
-        "icon" => "https://i.ibb.co/rfhk776/mobile.png",
-        ),
-        "isDefault" => true
-        ),
-        array(
-        "number" => 6643255456,
-        "type" => array(
-        "id" => "H",
-        "description" => "Home",
-        "icon" => "https://i.ibb.co/T4Tkm9f/home.png",
-        ),
-        "isDefault" => false
-        )
-        ]
-        )
-        ]  
+        {
+                "id" : 1001,
+                "name" : "Jenny Stevens",
+                "photo" : "https://i.ibb.co/LtTYCsY/1001.png",
+                "phoneNumbers" : 
+                        {
+                        "number" : 6644837394,
+                        "type" : 
+                        {
+                                "id" : "M",
+                                "description" : "Mobile",
+                                "icon" : "https://i.ibb.co/rfhk776/mobile.png",
+                        },
+                        "isDefault" : true
+                        },
+                        {
+                        "number" : 6645688765,
+                        "type" : 
+                        {
+                                "id" : "H",
+                                "description" : "Home",
+                                "icon" : "https://i.ibb.co/T4Tkm9f/home.png",
+                        },
+                        "isDefault" : false
+                        },
+                        {
+                        "number" : 6645645697,
+                        "type" : {
+                                "id" : "W",
+                                "description" : "Work",
+                                "icon" : "https://i.ibb.co/1Q3qPmV/work.png",
+                        },
+                        "isDefault" : false
+                        }
+        
+        },
+
+        {
+                "id" : 1002,
+                "name" : "Alex Johnson",
+                "photo" : "https://i.ibb.co/JHzTCbt/1002.jpg",
+                "phoneNumbers" : 
+                {
+                        "number" : 6648329283,
+                        "type" : 
+                        {
+                                "id" : "M",
+                                "description" : "Mobile",
+                                "icon" : "https://i.ibb.co/rfhk776/mobile.png",
+                        },
+                        "isDefault" : false
+                },
+                {
+                        "number" : 6641273627,
+                        "type" : 
+                        {
+                                "id" : "W",
+                                "description" : "Work",
+                                "icon" : "https://i.ibb.co/1Q3qPmV/work.png",
+                        },
+                        "isDefault" : true
+                }
+        },
+
+        
+        {
+                "id" : 1003,
+                "name" : "Mary Jones",
+                "photo" : "https://i.ibb.co/fDsgvHX/1003.png",
+                "phoneNumbers" : 
+                {
+                        "number" : 6646558968,
+                        "type" : 
+                        {
+                                "id" : "M",
+                                "description" : "Mobile",
+                                "icon" : "https://i.ibb.co/rfhk776/mobile.png",
+                        },
+                        "isDefault" : true
+                },
+                {
+                        "number" : 6643255456,
+                        "type" : 
+                        {
+                                "id" : "H",
+                                "description" : "Home",
+                                "icon" : "https://i.ibb.co/T4Tkm9f/home.png",
+                        },
+                        "isDefault" : false
+                }
+        }
